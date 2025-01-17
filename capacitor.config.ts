@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  "appId": "030ee30e",
-    "appName": "SQL_4",
+  "appId": "3c2ab27c",
+    "appName": "SQL4squirrel-web",
     "webDir": "www",
     "bundledWebRuntime": false
    
